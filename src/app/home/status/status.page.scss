@@ -1,0 +1,28 @@
+ion-item {
+        --min-height: 5rem;
+
+        ion-label .titlle {
+                font-family: 'Red Hat Text';
+                font-style: normal;
+                font-weight: 500;
+                font-size: 18px;
+                // line-height: 26px;
+                color: #FFFFFF;
+        }
+
+        ion-label .description {
+                font-family: 'Red Hat Text';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 12px;
+                // line-height: 24px;
+                /* identical to box height */
+                color: #FFFFFF;
+
+        }
+
+        ion-avatar {
+                width: 45px;
+                height: 45px;
+        }
+}
